@@ -2,14 +2,6 @@
     "token": "MTUyNDgwNjc1MDU5Mzg4MDE0NQ.GWCbJC.sUZXVf72x1Z5LAH2--r13PZ1_egxlizFhNEFwU",
 
     "prefix": "/",
-
-    "MONGO": "mongodb+srv://AeroX:AeroX@aerox.rv3nxmb.mongodb.net/?retryWrites=true&w=majority&appName=AeroX",
-
-    "owner": [
-        "1453824015809380446",
-        ""
-    ],
-
-    "extraowners": [],
+}
 
  
